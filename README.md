@@ -39,4 +39,4 @@ Tener Docker y Docker Compose instalados en su sistema. Puede seguir las instruc
 
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/socket_redis.git
+   git clone git@github.com:joseidmdev/socket_reids.git
