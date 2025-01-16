@@ -1,0 +1,11 @@
+{
+  "name": "socket_redis",
+  "version": "1.0.0",
+  "description": "Este proyecto es una aplicación de chat en tiempo real construida con **Node.js** y **Socket.IO**. Utiliza **Redis** como un sistema de mensajería pub/sub para permitir la escalabilidad y la persistencia de las conexiones. Además, se utiliza **Docker** para facilitar la implementación y la gestión de containers, y **HAProxy** como un balanceador de carga para distribuir el tráfico entre múltiples instancias de la aplicación. La aplicación está diseñada para manejar múltiples usuarios conectados simultáneamente.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Jose Di Marco",
+  "license": "ISC"
+}
